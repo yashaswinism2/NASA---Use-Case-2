@@ -56,7 +56,8 @@ Fig: CME deflected by Earth's Atmosphere
 
 The thunder is a CME, consisting of billions of tons of hot magnetic plasma that crosses the 150 million kilometers between the Sun and Earth in less than a day. When it arrives, it causes a shockwave that violently compresses the Earth's magnetic field and transfers energy into the magnetosphere. But it can get worse. If the magnetic field of the CME is aligned to Earth's in just the right way, the two magnetic fields merge. As the magnetic cloud passes over Earth, it stretches the Earth's field into a long tail. Eventually, the energy stored in the tail becomes too much to contain. It snaps and explosively releases its energy towards Earth. A geomagnetic storm has begun. A few hundred years ago, nobody would have cared. This storm gushing over the Earth is not relevant for machines made out of meat and bones. But it's very relevant for machines made out of metal and wire. Remember the dynamo? Magnetism creates electric currents. Earth in the 21st century is covered in millions of kilometers of wires, transporting electricity, and a complex grid of machines, like transformers, that make this transfer possible. A CME's energy can induce currents in our power grid that can either completely shut it down, or worse, destroy the transformer stations that keep our grid running. This has happened already, like when the Quebec power grid failed after a strong solar storm in 1989. But in general, our engineers know how to deal with these storms, and so we usually don't even notice. The last time a solar hurricane washed over Earth was in 1859: The Carrington Event, the largest geomagnetic storms ever observed on Earth.
 
-![Uploading 6.png…]()
+
+![6](https://github.com/user-attachments/assets/fac11398-2a36-4c38-b5fc-223e53c45899)
 
 Fig: Stretched earth magnetic field after CME aligned to Earth
 
